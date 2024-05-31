@@ -1,4 +1,5 @@
-ubuntu-wsl2-systemd-script
+ubuntu-wsl2-systemd-script.sh  
+
 Script is unsupported and will no longer be maintained, but will be up here because it is used by quite some people.
 
 Script to enable systemd support on current Ubuntu WSL2 images from the Windows store.
